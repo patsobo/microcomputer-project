@@ -1,0 +1,8 @@
+/out:"C:\Users\patsobo\Documents\Visual Studio 2015\Projects\build2015-robot-kit-develop\RobotApp\RobotApp\obj\ARM\Release\ilc\intermediate\SgGenerated\\"
+/int:"C:\Users\patsobo\Documents\Visual Studio 2015\Projects\build2015-robot-kit-develop\RobotApp\RobotApp\obj\ARM\Release\ilc\intermediate\\"
+/ref:"C:\Users\patsobo\Documents\Visual Studio 2015\Projects\build2015-robot-kit-develop\RobotApp\RobotApp\obj\ARM\Release\ilc\intermediate\PreMergeILTransformed\\"
+/ref:"C:\Users\patsobo\Documents\Visual Studio 2015\Projects\build2015-robot-kit-develop\RobotApp\RobotApp\obj\ARM\Release\ilc\in\\"
+/ref:"C:\Program Files (x86)\MSBuild\Microsoft\.NetNative\ARM\ilc\lib\Private\\"
+/ref:"C:\Users\patsobo\Documents\Visual Studio 2015\Projects\build2015-robot-kit-develop\RobotApp\RobotApp\obj\ARM\Release\ilc\in\\"
+/ref:"C:\Users\patsobo\Documents\Visual Studio 2015\Projects\build2015-robot-kit-develop\RobotApp\RobotApp\obj\ARM\Release\ilc\in\WinMetadata\\"
+/ca:System.Private.CoreLib
